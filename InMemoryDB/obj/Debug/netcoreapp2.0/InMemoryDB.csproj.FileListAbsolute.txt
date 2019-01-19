@@ -1,0 +1,11 @@
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\bin\Debug\netcoreapp2.0\InMemoryDB.deps.json
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\bin\Debug\netcoreapp2.0\InMemoryDB.runtimeconfig.json
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\bin\Debug\netcoreapp2.0\InMemoryDB.runtimeconfig.dev.json
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\bin\Debug\netcoreapp2.0\InMemoryDB.dll
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\bin\Debug\netcoreapp2.0\InMemoryDB.pdb
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\obj\Debug\netcoreapp2.0\InMemoryDB.csprojAssemblyReference.cache
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\obj\Debug\netcoreapp2.0\InMemoryDB.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\obj\Debug\netcoreapp2.0\InMemoryDB.AssemblyInfoInputs.cache
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\obj\Debug\netcoreapp2.0\InMemoryDB.AssemblyInfo.cs
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\obj\Debug\netcoreapp2.0\InMemoryDB.dll
+C:\Users\Vadim\source\repos\InMemoryDB\InMemoryDB\obj\Debug\netcoreapp2.0\InMemoryDB.pdb
